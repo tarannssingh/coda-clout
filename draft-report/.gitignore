@@ -1,0 +1,12 @@
+# CatBoost training logs
+catboost_info/
+*.tsv
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
