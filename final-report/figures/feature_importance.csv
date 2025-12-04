@@ -1,0 +1,17 @@
+feature,importance
+log_avg_views_pre_death_10d,0.16732444
+log_edits_past_year,0.12647599
+age_at_death,0.11175259
+log_page_len_bytes,0.07198104
+views_per_sitelink,0.06840325
+occ_actor,0.061937496
+death_year,0.06005731
+occ_politician,0.042891026
+log_sitelinks,0.04287708
+age_x_year,0.04200997
+age_x_fame,0.040722203
+occ_film_actor,0.039495345
+log_num_editors,0.035395667
+log_award_count,0.031140583
+log_page_watchers,0.030703077
+fame_proxy,0.026832929

@@ -1,0 +1,6 @@
+,Logistic Regression,Random Forest,XGBoost,HistGradientBoosting
+Precision,0.149,0.212,0.353,0.222
+Recall,0.579,0.368,0.316,0.316
+F1,0.237,0.269,0.333,0.261
+ROC-AUC,0.784,0.635,0.850,0.802
+PR-AUC,0.176,0.178,0.239,0.170

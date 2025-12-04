@@ -1,0 +1,57 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Training outputs and logs
+*.log
+*.txt
+current_run_output.txt
+training_output.log
+upgraded_training_output.txt
+
+# CatBoost training info
+catboost_info/
+*.tsv
+
+# Model files (keep in repo for deployment)
+# *.pkl
+# *.cbm
+
+# Temporary/development files
+test_with_all_features.py
+ACCURACY_REVIEW.md
+data_improvement_plan.md
+README.md
+
+# Old figure versions (keep numbered ones)
+feature_importance.png
+model_evaluation.png
+
+# View graphs (keep only key examples: Pop_Smoke, Jimmy_Carter)
+view_graph_Brent_Budowsky.png
+view_graph_Charles_Davis*.png
+view_graph_Irène_Molitor.png
+view_graph_William_Roger_Callahan.png
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Note: Legend Classifier.pdf (5.1MB) is intentionally tracked as it's a deliverable
+

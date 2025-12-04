@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database files (too large for git)
+*.db
+wikipedia_clout.db
+
+# Data files (CSV files are large and can be regenerated)
+*.csv
+modeling_data_*.csv
+
+# Log files
+*.log
+*.txt
+populate_log.txt
+fix_historical.log
+
+# Progress/temporary files
+*.json
+.page_length_progress.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Note: All Python scripts (.py) and README.md should be tracked
+
